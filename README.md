@@ -3,7 +3,7 @@ The elective courses in Module 2 and Module 3 of PHBS
 
 ## Repository Structure
 - `data`: Placeholder for data files.
-- `notebooks`: Placeholder for Jupyter Notebooks.
+- `notebooks`: Placeholder for Notebooks.
 - `scripts`: Contains Python scripts for data fetching and processing.
 - `src`: Contains utility functions or reusable code.
   
