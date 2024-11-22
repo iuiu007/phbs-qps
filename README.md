@@ -20,8 +20,4 @@ cd phbs-qps
   The `src` folder stores independent functional modules. The file `cpi.py` encapsulates the logic for fetching and calculating CPI data into a module, making it reusable.  
   The `scripts` folder contains the main scripts that call the functional modules.  
 ### 2. Python libraries  
-Make sure your system can use the following Python libraries:    
-pandas/pandas_datareader/datetime  
-
-
-
+Make sure your system can use the following Python libraries:pandas pandas_datareader datetime  
