@@ -13,10 +13,10 @@ https://github.com/iuiu007/phbs-qps.git
 ## Instructions  
 Below are the detailed steps to run the code.  
 ### 1. Clone the Repository  
-（1）use Git to clone the repository to your local machine:  
+（1）use Git to clone the repository to your local machine  
 git clone https://github.com/iuiu007/phbs-qps.git  
-cd phbs-qps 
-（2）cpi.py & get_cpi_data.py  
+cd phbs-qps   
+（2）cpi.py & get_cpi_data.py    
   The `src` folder stores independent functional modules. The file `cpi.py` encapsulates the logic for fetching and calculating CPI data into a module, making it reusable.  
   The `scripts` folder contains the main scripts that call the functional modules.  
 ### 2. Python libraries  
