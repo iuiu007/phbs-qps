@@ -20,5 +20,5 @@ cd phbs-qps
 
 2.Install Dependencies
 Make sure your system can use the following Python libraries:
-
+pandas/pandas_datareader/datetime
 
