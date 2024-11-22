@@ -10,4 +10,15 @@ The elective courses in Module 2 and Module 3 of PHBS
 ## URL to Repository
 https://github.com/iuiu007/phbs-qps.git
 
-## Explanation of code
+## How to run the code
+Below are the detailed steps to run the code.
+1. Clone the Repository
+  First, use Git to clone the repository to your local machine:
+
+git clone https://github.com/iuiu007/phbs-qps.git
+cd phbs-qps
+
+2.Install Dependencies
+Make sure your system can use the following Python libraries:
+
+
